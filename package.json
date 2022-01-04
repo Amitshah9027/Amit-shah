@@ -9,7 +9,7 @@
   "main": "creates.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": " npm nodemon"
+    "start": "nodemon even.js"
   },
   "author": "",
   "license": "ISC",
